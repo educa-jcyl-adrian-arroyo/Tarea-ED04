@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\adri1\Desktop\Entornos de Desarrollo\Tareas\ProyectoJava_Tarea_ED04\.metadata\.plugins\org.eclipse.jdt.core
+3198475042.index
+75931715.index
+1865797976.index
