@@ -15,9 +15,6 @@ public class CCuenta {
     private double saldo;
     private double tipoInteres;
     
-    /**
-     * Inicialización del método CCuenta()
-     */
     public CCuenta()
     {
     }
