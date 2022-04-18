@@ -1,12 +1,12 @@
 package cuentas;
 
-/** 
- * @author adrian.arrcab
- * @version 0.0.1
- * Esta clase define los métodos que se utilizarán en el método operativa_cuenta() de la clase main.
- */
-
 public class CCuenta {
+
+	/** 
+	 * @author adrian.arrcab
+	 * @version 0.0.1
+	 * Esta clase define los métodos que se utilizarán en el método operativa_cuenta() de la clase main.
+	 */
 	
 	//Campos de la clase:
 	
